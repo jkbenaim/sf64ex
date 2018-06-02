@@ -1,0 +1,5 @@
+sf64ex
+*.o
+*.swp
+roms
+*.z64
